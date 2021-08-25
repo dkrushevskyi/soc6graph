@@ -1,4 +1,4 @@
-package com.soc6graph.socgraph.config.dto;
+package com.soc6graph.socgraph.config;
 
 import lombok.Getter;
 import lombok.Setter;

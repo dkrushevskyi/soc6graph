@@ -1,6 +1,6 @@
 package com.soc6graph.socgraph;
 
-import com.soc6graph.socgraph.config.dto.FacebookSettings;
+import com.soc6graph.socgraph.config.FacebookSettings;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
